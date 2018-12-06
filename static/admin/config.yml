@@ -1,6 +1,7 @@
 backend:
-  name: github
-  repo: grodier/netlify-cms-playground
+  name: git-gateway
+  accept_roles:
+    - admin
 
 media_folder: static/assets
 public_folder: assets
