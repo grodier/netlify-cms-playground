@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: grodier/netlify-cms-playground
 
 media_folder: static/assets
 public_folder: assets
